@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jupter-exeption/static/css/main.ca3ca9fd.chunk.css",
+    "main.js": "/jupter-exeption/static/js/main.eb1cd04d.chunk.js",
+    "main.js.map": "/jupter-exeption/static/js/main.eb1cd04d.chunk.js.map",
+    "runtime-main.js": "/jupter-exeption/static/js/runtime-main.03e8f727.js",
+    "runtime-main.js.map": "/jupter-exeption/static/js/runtime-main.03e8f727.js.map",
+    "static/js/2.f62461b1.chunk.js": "/jupter-exeption/static/js/2.f62461b1.chunk.js",
+    "static/js/2.f62461b1.chunk.js.map": "/jupter-exeption/static/js/2.f62461b1.chunk.js.map",
+    "index.html": "/jupter-exeption/index.html",
+    "static/css/main.ca3ca9fd.chunk.css.map": "/jupter-exeption/static/css/main.ca3ca9fd.chunk.css.map",
+    "static/js/2.f62461b1.chunk.js.LICENSE.txt": "/jupter-exeption/static/js/2.f62461b1.chunk.js.LICENSE.txt",
+    "static/media/blk-design-system-react.scss?v=1.2.0": "/jupter-exeption/static/media/square5.16283001.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03e8f727.js",
+    "static/js/2.f62461b1.chunk.js",
+    "static/css/main.ca3ca9fd.chunk.css",
+    "static/js/main.eb1cd04d.chunk.js"
+  ]
+}
